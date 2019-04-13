@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Ubuntu');
+
+body {
+	background-color: grey;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-family: arial;
+}	
+
+canvas {
+	background-color: black;
+	margin: 25px;
+	margin-bottom: 50px;
+	border: 5px solid grey;
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+
+h1 {
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+}
